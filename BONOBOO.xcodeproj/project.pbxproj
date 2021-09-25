@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A086E2326FEFEB200922434 /* NanumBarunpenB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2126FEFEB200922434 /* NanumBarunpenB.ttf */; };
+		9A086E2426FEFEB200922434 /* NanumBarunpenR.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2226FEFEB200922434 /* NanumBarunpenR.ttf */; };
+		9A086E2926FEFEC200922434 /* NanumSquareRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2526FEFEC200922434 /* NanumSquareRegular.ttf */; };
+		9A086E2A26FEFEC200922434 /* NanumSquareExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2626FEFEC200922434 /* NanumSquareExtraBold.ttf */; };
+		9A086E2B26FEFEC200922434 /* NanumSquareBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2726FEFEC200922434 /* NanumSquareBold.ttf */; };
+		9A086E2C26FEFEC200922434 /* NanumSquareLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2826FEFEC200922434 /* NanumSquareLight.ttf */; };
+		9A086E3226FEFEDC00922434 /* BONOBOO_1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2D26FEFEDB00922434 /* BONOBOO_1024.png */; };
+		9A086E3326FEFEDC00922434 /* HarryPoterAndTheSorcerer'sStone.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2E26FEFEDB00922434 /* HarryPoterAndTheSorcerer'sStone.jpeg */; };
+		9A086E3426FEFEDC00922434 /* LittleForest.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E2F26FEFEDC00922434 /* LittleForest.jpeg */; };
+		9A086E3526FEFEDC00922434 /* BONOBOO_512.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E3026FEFEDC00922434 /* BONOBOO_512.png */; };
+		9A086E3626FEFEDC00922434 /* Howl'sMovingCastle.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9A086E3126FEFEDC00922434 /* Howl'sMovingCastle.jpeg */; };
 		9ABD79F026FB41920071E1F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABD79EF26FB41920071E1F6 /* AppDelegate.swift */; };
 		9ABD79F226FB41920071E1F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABD79F126FB41920071E1F6 /* SceneDelegate.swift */; };
 		9ABD79F426FB41920071E1F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABD79F326FB41920071E1F6 /* ViewController.swift */; };
@@ -16,6 +27,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A086E2126FEFEB200922434 /* NanumBarunpenB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumBarunpenB.ttf; sourceTree = "<group>"; };
+		9A086E2226FEFEB200922434 /* NanumBarunpenR.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumBarunpenR.ttf; sourceTree = "<group>"; };
+		9A086E2526FEFEC200922434 /* NanumSquareRegular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumSquareRegular.ttf; sourceTree = "<group>"; };
+		9A086E2626FEFEC200922434 /* NanumSquareExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumSquareExtraBold.ttf; sourceTree = "<group>"; };
+		9A086E2726FEFEC200922434 /* NanumSquareBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumSquareBold.ttf; sourceTree = "<group>"; };
+		9A086E2826FEFEC200922434 /* NanumSquareLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumSquareLight.ttf; sourceTree = "<group>"; };
+		9A086E2D26FEFEDB00922434 /* BONOBOO_1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BONOBOO_1024.png; sourceTree = "<group>"; };
+		9A086E2E26FEFEDB00922434 /* HarryPoterAndTheSorcerer'sStone.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "HarryPoterAndTheSorcerer'sStone.jpeg"; sourceTree = "<group>"; };
+		9A086E2F26FEFEDC00922434 /* LittleForest.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LittleForest.jpeg; sourceTree = "<group>"; };
+		9A086E3026FEFEDC00922434 /* BONOBOO_512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BONOBOO_512.png; sourceTree = "<group>"; };
+		9A086E3126FEFEDC00922434 /* Howl'sMovingCastle.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Howl'sMovingCastle.jpeg"; sourceTree = "<group>"; };
 		9ABD79EC26FB41920071E1F6 /* BONOBOO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BONOBOO.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ABD79EF26FB41920071E1F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9ABD79F126FB41920071E1F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +59,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9A086DF426FEB5C400922434 /* main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = main;
+			sourceTree = "<group>";
+		};
+		9A086DF526FEB5C800922434 /* add */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = add;
+			sourceTree = "<group>";
+		};
+		9A086DF726FEB5E200922434 /* menu */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = menu;
+			sourceTree = "<group>";
+		};
+		9A086E1E26FEFE4300922434 /* data */ = {
+			isa = PBXGroup;
+			children = (
+				9A086E2026FEFE5C00922434 /* images */,
+				9A086E1F26FEFE5600922434 /* font */,
+			);
+			path = data;
+			sourceTree = "<group>";
+		};
+		9A086E1F26FEFE5600922434 /* font */ = {
+			isa = PBXGroup;
+			children = (
+				9A086E2726FEFEC200922434 /* NanumSquareBold.ttf */,
+				9A086E2626FEFEC200922434 /* NanumSquareExtraBold.ttf */,
+				9A086E2826FEFEC200922434 /* NanumSquareLight.ttf */,
+				9A086E2526FEFEC200922434 /* NanumSquareRegular.ttf */,
+				9A086E2126FEFEB200922434 /* NanumBarunpenB.ttf */,
+				9A086E2226FEFEB200922434 /* NanumBarunpenR.ttf */,
+			);
+			path = font;
+			sourceTree = "<group>";
+		};
+		9A086E2026FEFE5C00922434 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9A086E3026FEFEDC00922434 /* BONOBOO_512.png */,
+				9A086E2D26FEFEDB00922434 /* BONOBOO_1024.png */,
+				9A086E2E26FEFEDB00922434 /* HarryPoterAndTheSorcerer'sStone.jpeg */,
+				9A086E3126FEFEDC00922434 /* Howl'sMovingCastle.jpeg */,
+				9A086E2F26FEFEDC00922434 /* LittleForest.jpeg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		9ABD79E326FB41920071E1F6 = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +133,10 @@
 		9ABD79EE26FB41920071E1F6 /* BONOBOO */ = {
 			isa = PBXGroup;
 			children = (
+				9A086E1E26FEFE4300922434 /* data */,
+				9A086DF726FEB5E200922434 /* menu */,
+				9A086DF526FEB5C800922434 /* add */,
+				9A086DF426FEB5C400922434 /* main */,
 				9ABD79EF26FB41920071E1F6 /* AppDelegate.swift */,
 				9ABD79F126FB41920071E1F6 /* SceneDelegate.swift */,
 				9ABD79F326FB41920071E1F6 /* ViewController.swift */,
@@ -124,9 +205,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A086E2C26FEFEC200922434 /* NanumSquareLight.ttf in Resources */,
+				9A086E2B26FEFEC200922434 /* NanumSquareBold.ttf in Resources */,
+				9A086E3426FEFEDC00922434 /* LittleForest.jpeg in Resources */,
+				9A086E3326FEFEDC00922434 /* HarryPoterAndTheSorcerer'sStone.jpeg in Resources */,
 				9ABD79FC26FB41920071E1F6 /* LaunchScreen.storyboard in Resources */,
+				9A086E3526FEFEDC00922434 /* BONOBOO_512.png in Resources */,
 				9ABD79F926FB41920071E1F6 /* Assets.xcassets in Resources */,
+				9A086E2926FEFEC200922434 /* NanumSquareRegular.ttf in Resources */,
+				9A086E2A26FEFEC200922434 /* NanumSquareExtraBold.ttf in Resources */,
+				9A086E2326FEFEB200922434 /* NanumBarunpenB.ttf in Resources */,
+				9A086E2426FEFEB200922434 /* NanumBarunpenR.ttf in Resources */,
+				9A086E3626FEFEDC00922434 /* Howl'sMovingCastle.jpeg in Resources */,
 				9ABD79F726FB41920071E1F6 /* Main.storyboard in Resources */,
+				9A086E3226FEFEDC00922434 /* BONOBOO_1024.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
